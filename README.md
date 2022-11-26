@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kharey02
+- 👋 Hi there, I’m Yash Khare
 - 👀 I’m interested in social media marketing
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA & Web Dev
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach : [click me](https://www.linkedin.com/in/yash-khare-154b40207)
 
