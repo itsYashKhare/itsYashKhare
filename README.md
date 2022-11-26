@@ -2,7 +2,7 @@
 - 👀 I’m interested in social media marketing
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me : [click me](https://www.linkedin.com/in/yash-khare-154b40207)
+- 📫 How to reach : [click me](https://www.linkedin.com/in/yash-khare-154b40207)
 
 <!---
 kharey02/kharey02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
